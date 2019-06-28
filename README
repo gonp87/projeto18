@@ -1,0 +1,4 @@
+Código usado para cálculo de subgrafos para a cadeira de projeto no ano de 2018/2019
+
+Para usar compile o programa rr.cpp normalmente. O input é o número de nós do grafo, seguido da matriz de adjacências do mesmo e finalmente o número de vezes que um grafo é gerado.
+O output mostra os valores médios de cada subgrafo encontrado, primeiro para os grafos gerado a partir da matriz original e depois para os grafos gerados pela matriz após aplicar o produto de Kronecker.
